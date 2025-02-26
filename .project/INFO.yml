@@ -1,0 +1,35 @@
+title: "Mise in place" # project title
+slug: "mise-in-place" # url-friendly identifier
+description: "Recipe saver app that helps you plan and prep your meals"
+tags:
+  -
+technologies:
+  frontend: ["Next.js"]
+  backend: ["Node"]
+  tools: [""]
+  frameworks: ["React", "Next.js"]
+  libraries: ["", ""]
+status: "In Progress" # Options: "Completed", "In Progress", "Abandoned", "Deprecated", "Ideation"
+urls:
+  repository: ""
+  demo: ""
+  production: ""
+screenshots: "./screenshots" # dir or list of image locations
+features:
+  - ""
+contributors:
+  mike:
+    name: "Michael Monaghan"
+    role: "Author"
+date_started: "2024-02-26"
+date_completed: "" # empty string if project still ongoing
+challenges: # list of challenges
+  - ""
+solutions:
+  - ""
+testimonials:
+  - name: ""
+    title: ""
+    feedback: ""
+related_projects:
+  - ""
