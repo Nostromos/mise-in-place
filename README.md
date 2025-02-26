@@ -89,9 +89,7 @@ Then I pack everything away in containers, some for fridge, some for freezer, an
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai)](https://chat.openai.com)
+[![Next][Next.js]][Next-url][![React][React.js]][React-url][![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai)](https://chat.openai.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
