@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nostromos/recipe_tracker">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Mise-in-place</h3>
