@@ -62,7 +62,7 @@ export function Sidebar() {
           <div className="p-4 border-b">
             <Link href="/" className="flex items-center gap-2" onClick={() => setIsOpen(false)}>
               <ChefHat className="h-6 w-6" />
-              <h1 className="text-xl font-bold">Recipe App</h1>
+              <h1 className="text-xl font-bold">Mise-in-place</h1>
             </Link>
           </div>
           <nav className="flex-1 p-4 space-y-2">
