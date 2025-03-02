@@ -8,7 +8,7 @@ import { PlusCircle } from "lucide-react"
 import { useState } from "react"
 
 export default function MealsPage() {
-  // const { recipes, mealPlans, addMealPlan } = useRecipe()
+  const { recipes, mealPlans } = useRecipe() // TODO: Add addMealPlan() to this when that functionality is built
   const [date, setDate] = useState<Date | undefined>(new Date())
 
   const getMealsForDate = (date: Date | undefined) => {
