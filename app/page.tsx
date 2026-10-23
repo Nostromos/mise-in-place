@@ -37,7 +37,7 @@ export default function Home() {
       title: "Meals",
       description: "Plan your meals on a calendar",
       icon: <Calendar className="h-6 w-6" />,
-      href: "/meals",
+      href: "/meals", 
       color: "bg-pink-100 dark:bg-pink-900",
     },
     {
